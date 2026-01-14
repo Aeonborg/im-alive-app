@@ -1,0 +1,6 @@
+{
+  "name": "im-alive-app",
+  "version": "1.0.0",
+  "description": "I'm Alive check-in system",
+  "main": "App.jsx"
+}
